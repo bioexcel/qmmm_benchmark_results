@@ -43,7 +43,7 @@
  GLOBAL| MM Potential file name                                     MM_POTENTIAL
  GLOBAL| Coordinate file name                                           mqae.pdb
  GLOBAL| Method name                                                        CP2K
- GLOBAL| Project name                                     MQAE-B3LYP-large-large
+ GLOBAL| Project name                                           MQAE-B3LYP-large
  GLOBAL| Preferred FFT library                                             FFTW3
  GLOBAL| Preferred diagonalization lib.                                     ELPA
  GLOBAL| Run type                                                             MD
@@ -198,10 +198,10 @@
  MD_PAR| Temperature tolerance [K]                                      0.000000
  MD_PAR| Print MD information every                                    1 step(s)
  MD_PAR| File type   Print frequency [steps]                          File names
- MD_PAR| Coordinates          1                 MQAE-B3LYP-large-large-pos-1.xyz
- MD_PAR| Velocities           1                 MQAE-B3LYP-large-large-vel-1.xyz
- MD_PAR| Energies             1                    MQAE-B3LYP-large-large-1.ener
- MD_PAR| Dump                20                 MQAE-B3LYP-large-large-1.restart
+ MD_PAR| Coordinates          1                       MQAE-B3LYP-large-pos-1.xyz
+ MD_PAR| Velocities           1                       MQAE-B3LYP-large-vel-1.xyz
+ MD_PAR| Energies             1                          MQAE-B3LYP-large-1.ener
+ MD_PAR| Dump                20                       MQAE-B3LYP-large-1.restart
 
  ROT| Rotational analysis information
  ROT| Principal axes and moments of inertia [a.u.]
