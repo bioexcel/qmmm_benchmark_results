@@ -54,7 +54,7 @@
  GLOBAL| MM Potential file name                                     MM_POTENTIAL
  GLOBAL| Coordinate file name                                           mqae.pdb
  GLOBAL| Method name                                                        CP2K
- GLOBAL| Project name                                                 MQAE-B3LYP
+ GLOBAL| Project name                                                 MQAE-B3LYP-large
  GLOBAL| Run type                                                             MD
  GLOBAL| FFT library                                                       FFTW3
  GLOBAL| Diagonalization library                                            ELPA
