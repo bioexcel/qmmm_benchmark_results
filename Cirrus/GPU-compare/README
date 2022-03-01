@@ -1,0 +1,2 @@
+Comparison on Cirrus between straightforward CUDA native offloading, HIP offloading, and CPU only
+1 node, 4 MPI x 10 OpenMP
